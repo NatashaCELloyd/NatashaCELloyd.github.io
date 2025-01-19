@@ -3,14 +3,14 @@ layout: page
 title: iPadazzle.co.uk
 ---
 
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nicolas-van) [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
 
-A website for iPadazzle, an SHSK run ipad business!.
 
-* A full Bootstrap 5 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+A website for iPadazzle, an SHSK run ipad business! On here you can...
+
+* See our full range of products.
+* Find our contact details to order products and request changes.
+* See when and where we're selling.
+* Compare prices, sizes and colours for products.
 
 ## Setup Guide
 
