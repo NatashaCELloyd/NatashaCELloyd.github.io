@@ -16,10 +16,9 @@ title: iPadazzle
 
 ### sadly you cannot purchase products online, but email us to order products, or come see us in school!
 
-* E-mail: lloydn@shsk.org.uk .
-* Click the `Star` button on the top right. (OK, this step is facultative, but that would make you a nice person)
-* Click the `Use this template` button on the top right of the page.
-
+* E-mail: `lloydn@shsk.org.uk` .
+* Click the `Locations` button on the ... to see when and where we are open in school!
+* If you have any problems or queries, don't hesitate to email us, we are always happy to help!
 ### Choose a name for your repository
 
 Here we have two possibilities:
