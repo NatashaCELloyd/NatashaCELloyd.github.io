@@ -14,26 +14,29 @@ title: iPadazzle
 
 ## E-mail us
 
-### sadly you cannot purchase products online, but email us to order products, or come see us in school!
+#### Sadly you cannot purchase products online, but email us to order products, or come see us in school!
 
 * E-mail: `lloydn@shsk.org.uk` .
 * Click the `Locations` button on the ... to see when and where we are open in school!
 * If you have any problems or queries, don't hesitate to email us, we are always happy to help!
-### Choose a name for your repository
+
+  
+### Personalisations and customisations!
 
 Here we have two possibilities:
 
-* **You want a user or organization website**
+* **If you would like a themed bundle/pack of stickers we don't have:**
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+ contact us! We are happy to listen to your ideas!
+ - a small custom fee will apply
 
-  Choose the repository name `<your username>.github.io`.
+  Let us know about any requests or restrictions.
 
-* **You want a project website**
+* **If you would like a pack of specific stickers (eg. family photos, specific photos, labels other than those already being sold) **
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
-
-  Choose the repository name `<whatever you want>`.
+  Again, contact us! Make sure to send us all your photos/titles, and all the requirements such as size, outline, design (eg. cartoon, outline, realistic etc..)
+- a small(but slightly larger than the themed pack) custom fee will apply
+  
 
 ### Activate Github Pages on your repository
 
