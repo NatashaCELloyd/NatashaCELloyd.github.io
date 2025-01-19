@@ -5,18 +5,18 @@ title: iPadazzle
 
 
 
-* **A website for iPadazzle, an SHSK run ipad business! On here you can...
+ **A website for iPadazzle, an SHSK run ipad business! On here you can...**
 
 * See our full range of products.
 * Find our contact details to order products and request changes.
 * See when and where we're selling.
 * Compare prices, sizes and colours for products.
 
-## Setup Guide
+## E-mail us
 
-### Create a repository from this template
+### sadly you cannot purchase products online, but email us to order products, or come see us in school!
 
-* [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
+* E-mail: lloydn@shsk.org.uk .
 * Click the `Star` button on the top right. (OK, this step is facultative, but that would make you a nice person)
 * Click the `Use this template` button on the top right of the page.
 
