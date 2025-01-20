@@ -9,7 +9,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-md-auto">
         <li class="nav-item">
-          <a class="nav-link" href="#">Bundles</a>
+          <a class="nav-link" href="{{ "/Bundles.md" | relative_url }}">Bundles</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Stickers</a>
@@ -25,21 +25,16 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">iPad pen accessories</a>
-        </li>        
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Dropdown
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Contact us</a>
-            <a class="dropdown-item" href="#">About us</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">locations</a>
-          </div>
         </li>
-        <span class="navbar-text">
-          
-        </span>
+        <li class="nav-item dropdown" id="myDropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Dropdown</a>
+          <ul class="dropdown-menu">
+            <li> <a class="dropdown-item" href="#">Dropdown item 1</a></li>
+            <li><a class="dropdown-item" href="#">Dropdown item 2</a></li>
+            <li><a class="dropdown-item" href="#">Dropdown item 3</a></li>
+          </ul>
+        </li>
+        <span class="navbar-text"></span>
       </ul>
     </div>
   </div>
