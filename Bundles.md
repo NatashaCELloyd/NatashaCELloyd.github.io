@@ -5,5 +5,5 @@ title: Bundles
 
 ![bundles]({{ "/assets/pics/bundle.png" | relative_url }})
 
-## Here are the bindles
+## Here are the bundles...
 
