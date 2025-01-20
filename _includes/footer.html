@@ -1,9 +1,6 @@
 
 <div class="py-5 border-top">
   <div class="container">
-
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
-
     <div class="row">
 
       <div class="col-sm">
@@ -27,11 +24,10 @@
 
 
       <div class="col-sm text-end">
-        <p>{{- site.description | escape -}}</p>
-
-        <p>
-          An SHSK run Tycoon Enterprise business. Any profits go to charity!
-        </p>
+        <ul class="list-unstyled">
+          <li>{{- site.description | escape -}}</li>
+          <li>An SHSK run Tycoon Enterprise business. Any profits go to charity!</li>
+        </ul>
       </div>
 
     </div>
