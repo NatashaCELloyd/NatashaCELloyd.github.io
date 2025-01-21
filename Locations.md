@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Locations
+title: Locations!
 ---
 
 ## Come find us...
