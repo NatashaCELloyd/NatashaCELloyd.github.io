@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iPad Pen accessories!
+title: Pen accessories!
 ---
 
-## Here are all our iPad pen accessories...
+## Here are our pen accessories
