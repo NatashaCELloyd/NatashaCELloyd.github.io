@@ -4,4 +4,3 @@ title: Stickers
 ---
 
 ## Stick with style...
-
