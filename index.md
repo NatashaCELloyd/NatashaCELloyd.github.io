@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iPadazzle
+title: iPadazzle!
 ---
 
 
