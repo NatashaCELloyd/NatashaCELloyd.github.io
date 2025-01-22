@@ -12,6 +12,8 @@ title: iPadazzle
 * See when and where we're selling.
 * Compare prices, sizes and colours for products.
 
+  ![girl]({{ "/assets/pics/girl.png" | relative_url }})
+
 ## E-mail us
 
 #### Sadly you cannot purchase products online, but email us to order products, or come see us in school!
