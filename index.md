@@ -12,7 +12,7 @@ title: iPadazzle
 * See when and where we're selling.
 * Compare prices, sizes and colours for products.
 
-  ![bundles]({{ "/assets/pics/bundle.png" | relative_url }})
+  ![bundles]({{ "/assets/pics/Girl.png" | relative_url }})
 
 
 ## E-mail us
