@@ -36,6 +36,6 @@ Here we have two possibilities:
   Let us know about any requests or restrictions.
 
 ###### **If you would like a pack of specific stickers (eg. family photos, specific photos, labels other than those already being sold)**
-
+  
   Again, contact us! Make sure to send us all your photos/titles, and all the requirements such as size, outline, design (eg. cartoon, outline, realistic etc..)
 - a small(but slightly larger than the themed pack) custom fee will apply
