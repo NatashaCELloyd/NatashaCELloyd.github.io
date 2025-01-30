@@ -30,7 +30,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">ipadazzle</small>
                   </div>
                 </div>
               </div>
@@ -45,7 +45,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">ipadazzle</small>
                   </div>
                 </div>
               </div>
@@ -60,7 +60,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">9 ipadazzle</small>
                   </div>
                 </div>
               </div>
@@ -75,7 +75,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">ipadazzle</small>
                   </div>
                 </div>
               </div>
@@ -90,7 +90,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">ipadazzle</small>
                   </div>
                 </div>
               </div>
@@ -105,7 +105,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">ipadazzle</small>
                   </div>
                 </div>
               </div>
@@ -120,7 +120,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">ipadazzle</small>
                   </div>
                 </div>
               </div>
@@ -135,7 +135,7 @@ title: Bundles
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">ipadazzle</small>
                   </div>
                 </div>
               </div>
