@@ -12,7 +12,7 @@ title: iPadazzle!
 * See when and where we're selling.
 * Compare prices, sizes and colours for products.
 
-<div class="container">
+<div style="position:relative;text-align:center;color:white;">
   <img src="{{ "/assets/pics/Girl.png" | relative_url }}" alt="Bundles" style="width:100%;">
   <div style="position:relative;top: 50%;right: 16px;">Text that can be anything and maybe even long.</div>
 </div>
