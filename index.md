@@ -14,7 +14,7 @@ title: iPadazzle!
 
 <div style="position:relative">
   <img src="{{ "/assets/pics/Girl.png" | relative_url }}" alt="Bundles" style="width:100%">
-  <div style="position:absolute;top:50%;right:16px">Text that can be anything and maybe even long.</div>
+  <div style="position:absolute;top:50%;right:16px;width:100px;color:white;font-size:20px">Text that can be anything and maybe even long.</div>
 </div>
 
 ## E-mail us
