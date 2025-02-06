@@ -25,8 +25,9 @@ title: iPadazzle!
 
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading">E-MAIL US! <span class="text-muted">We're always happy to help...</span></h2>
-            <p class="lead"> Sadly you cannot purchase products online, but email us to order products, or come see us in school!
+            <h2 class="featurette-heading">EMAIL US! <span class="text-muted">We're always happy to help...</span></h2>
+            <p class="lead"> Sadly you cannot purchase products online, but email us to order products, or come see us in school! 
+</p>
 
 * E-mail: `lloydn@shsk.org.uk` .
 * Click the `Locations` button on the drop down menu in the top right to see when and where we are open in school!
