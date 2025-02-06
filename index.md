@@ -13,8 +13,8 @@ title: iPadazzle!
 * Compare prices, sizes and colours for products.
 
 <div style="position:relative">
-  <img src="{{ "/assets/pics/Girl.png" | relative_url }}" alt="Bundles" style="width:100%">
-  <div style="position:absolute;top:5%;right:300px;width:150px;color:white;font-size:100px">PERSONALISE AND ACCESSORISE YOUR IPAD!</div>
+  <img src="{{ "/assets/pics/Girl.png" | relative_url }}" alt="Bundles" style="width:120%">
+  <div style="position:absolute;top:5%;right:310px;width:150px;color:white;font-size:80px">PERSONALISE AND ACCESSORISE YOUR IPAD!</div>
 </div>
 
 ## E-mail us
