@@ -30,7 +30,9 @@ title: iPadazzle!
 </p>
 
 * E-mail: `lloydn@shsk.org.uk` .
+</p>
 * Click the `Locations` button on the drop down menu in the top right to see when and where we are open in school!
+</p>
 * If you have any problems or queries, don't hesitate to email us, we are always happy to help!
 </p>
           </div>
