@@ -31,7 +31,7 @@ title: iPadazzle!
 
             <p class="lead"> E-mail: <span class="text-muted">lloydn@shsk.org.uk</span>
 </p>
-            <p class="lead">* Click the `Locations` button on the drop down menu in the top right to see when and where we are open in school!
+            <p class="lead">* Click the 'locations' button on the drop down menu in the top right to see when and where we are open in school!
 </p>
             <p class="lead">* If you have any problems or queries, don't hesitate to email us, we are always happy to help!
 </p>
