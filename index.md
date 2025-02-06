@@ -45,7 +45,7 @@ title: iPadazzle!
 
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Personalisation! <span class="text-muted">Make it more YOU...</span></h2>
+            <h2 class="featurette-heading">Personalisations! <span class="text-muted">Make it more YOU...</span></h2>
             <p class="lead">If you would like a themed bundle or pack of stickers that we dont already have:</p>
             <p class="lead"> Contact us! We are happy to listen to your ideas, and would love to see how we can help.
 </p>
