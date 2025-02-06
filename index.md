@@ -14,7 +14,7 @@ title: iPadazzle!
 
 <div style="position:relative">
   <img src="{{ "/assets/pics/Girl.png" | relative_url }}" alt="Bundles" style="width:120%">
-  <div style="position:absolute;top:5%;right:310px;width:150px;color:white;font-size:80px">PERSONALISE AND ACCESSORISE YOUR IPAD!</div>
+  <div style="position:absolute;top:1%;right:310px;width:200px;color:white;font-size:70px">PERSONALISE AND ACCESSORISE YOUR IPAD!</div>
 </div>
 
 ## E-mail us
