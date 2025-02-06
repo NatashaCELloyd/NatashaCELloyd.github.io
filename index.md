@@ -29,7 +29,7 @@ title: iPadazzle!
             <p class="lead"> Sadly you cannot purchase products online, but email us to order products, or come see us in school! 
 </p>
 
-            <p class="lead"> E-mail: <span class="colour-pink">lloydn@shsk.org.uk</span>
+            <p class="lead"> E-mail: <span class="text-bold">lloydn@shsk.org.uk</span>
 </p>
             <p class="lead">* Click the `Locations` button on the drop down menu in the top right to see when and where we are open in school!
 </p>
