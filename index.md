@@ -12,10 +12,7 @@ title: iPadazzle!
 * See when and where we're selling.
 * Compare prices, sizes and colours for products.
 
-<div style="position:relative">
-  <img src="{{ "/assets/pics/Girl.png" | relative_url }}" alt="Bundles" style="width:300%">
-  <div style="position:absolute;top:1%;right:5%;width:50%;color:blue;font-size:larger">PERSONALISE AND ACCESSORISE YOUR IPAD!</div>
-</div>
+![bundles]({{ "/assets/pics/Girl.png" | relative_url }})
 
 <div class="container marketing">
 
