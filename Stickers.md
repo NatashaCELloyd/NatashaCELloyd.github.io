@@ -12,7 +12,7 @@ title: Stickers - small-£3 medium-£4 large-£5
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0316.png" | relative_url }}' />
                 <div class="card-body">
                 <p class="card-text">Pink! </p>
-                  <p class="card-text">This is one of our coloured packs, and is hand drwn by one of our artists.</p>
+                  <p class="card-text">This is one of our coloured packs, and is hand drawn by one of our artists.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
 
@@ -27,7 +27,7 @@ title: Stickers - small-£3 medium-£4 large-£5
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0318.png" | relative_url }}' />
                 <div class="card-body">
                 <p class="card-text">Purple! </p>
-                  <p class="card-text">This is our purple coloured pack, and is also hand drwn and designed.</p>
+                  <p class="card-text">This is our purple coloured pack, and is also hand drawn and designed.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
