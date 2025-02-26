@@ -57,12 +57,13 @@ title: Stickers - small-£3 medium-£4 large-£5
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0308.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">Motivation! </p>
+                  <p class="card-text">Need a pick-me-up? Well these are perfect for all those who struggle with being optimistic when stuck at school all day.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">Small only.</small>
                   </div>
                 </div>
               </div>
@@ -71,12 +72,13 @@ title: Stickers - small-£3 medium-£4 large-£5
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0310.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">Hearts! </p>
+                  <p class="card-text">These heart stickers can represent many things from warmth and friendship to care and love. Available in large numbers, this pack is almost ceratinly perfect for you!</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">Small, Medium, or Large.</small>
                   </div>
                 </div>
               </div>
@@ -85,12 +87,13 @@ title: Stickers - small-£3 medium-£4 large-£5
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0303.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">Vintage! </p>
+                  <p class="card-text">These beautiful golden stickers are full of hand drawn details that would brighten up any surface.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">Small only.</small>
                   </div>
                 </div>
               </div>
@@ -100,7 +103,7 @@ title: Stickers - small-£3 medium-£4 large-£5
               <div class="card mb-4 box-shadow">
                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0300.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">Coloured packs! </p>
+                  <p class="card-text">Green! </p>
                 
                   <p class="card-text">Our wide range of colourful designs will brighten up any iPad case to give you something to smile about in your lesson. </p>
                   <div class="d-flex justify-content-between align-items-center">
