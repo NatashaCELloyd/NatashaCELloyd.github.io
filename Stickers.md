@@ -150,4 +150,5 @@ title: Stickers - small-£3 medium-£4 large-£5
           </div>
         </div>
       </div>
- **These are not all of our designs! Come see us in OSH every thursdya and friday lunch to see our full range of stickers, as well as asking us and questions about customising packs, or addapting your ideas! 100% of profits go to charity - so dont be afraid to spend!**
+ **These are not all of our designs! Come see us in OSH every Thursday and Friday lunch to see our full range of stickers, as well as asking us and questions about customising packs, or addapting your ideas! **
+ <h2 class="featurette-heading">100% of profits go to charity - so dont be afraid to spend!</h2>
