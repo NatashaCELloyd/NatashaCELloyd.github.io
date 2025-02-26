@@ -11,12 +11,13 @@ title: Stickers - small-£3 medium-£4 large-£5
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0316.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">Pink! </p>
+                  <p class="card-text">This is one of our coloured packs, and is hand drwn by one of our artists.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
 
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">Small, or Medium.</small>
                   </div>
                 </div>
               </div>
@@ -25,12 +26,13 @@ title: Stickers - small-£3 medium-£4 large-£5
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0318.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">Purple! </p>
+                  <p class="card-text">This is our purple coloured pack, and is also hand drwn and designed.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">Small, or Medium.</small>
                   </div>
                 </div>
               </div>
@@ -39,12 +41,13 @@ title: Stickers - small-£3 medium-£4 large-£5
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0320.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text">Blue! </p>
+                  <p class="card-text">This is our Blue pack, each design is carefully picked out and produced by our team.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    <small class="text-muted">Small, or Medium.</small>
                   </div>
                 </div>
               </div>
