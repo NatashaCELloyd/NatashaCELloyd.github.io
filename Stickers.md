@@ -120,7 +120,7 @@ title: Stickers - small-£3 medium-£4 large-£5
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0322.png" | relative_url }}' />
                 <div class="card-body">
                  <p class="card-text">Flowers</p>
-                 <p class="card-text">These stunning floral designs let you bring the outside ontoyour iPad case. </p>
+                 <p class="card-text">These stunning floral designs let you bring the outside onto your iPad case. </p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
