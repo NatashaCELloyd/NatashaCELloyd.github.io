@@ -2,8 +2,6 @@
 layout: page
 title: iPad accessories!
 ---
-
-## Here are all our iPad accessories...
 <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
