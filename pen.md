@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Pen accessories!
+title: iPad Pens!
 ---
+
+## Here are all our ipad Pen accessories...
 <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
