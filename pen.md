@@ -2,8 +2,6 @@
 layout: page
 title: Pen accessories!
 ---
-
-## Here are our pen accessories...
 <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
