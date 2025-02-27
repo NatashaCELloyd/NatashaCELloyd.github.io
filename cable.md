@@ -2,8 +2,6 @@
 layout: page
 title: Cable accessories!
 ---
-
-## Here are all the Cable accessories we offer...
 <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
