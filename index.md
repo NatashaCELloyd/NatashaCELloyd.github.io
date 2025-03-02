@@ -2,10 +2,7 @@
 layout: page
 title: iPadazzle!
 ---
-
-
-
- **A website for iPadazzle, an SHSK run ipad business! On here you can...**
+**A website for iPadazzle, an SHSK run ipad business! On here you can...**
 
 * See our full range of products.
 * Find our contact details to order products and request changes.
