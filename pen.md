@@ -3,7 +3,8 @@ layout: page
 title: iPad Pens!
 ---
 
-## Here are all our ipad Pen accessories...
+## Tired of a boring Metapen?
+## Make your iPad pen unique with our range of pen accessories!
 <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
@@ -11,13 +12,13 @@ title: iPad Pens!
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is our best value pack!! </p>
-                  <p class="card-text">It includes stickers, matching colour set of silicone pen cover, pen tip and cable tidy, as well as a charging charm and a cable charm matching the overall theme. These packs come in most colours, and any requests or custom themes can be emailed to us.</p>
+                  <p class="card-text">Jazz up your pen with one of our pen covers! </p>
+                  <p class="card-text">A silicone cover for your iPad pen to protect it from damage, give you a better grip and add some colour!</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                 
                     </div>
-                    <small class="text-muted">£10.00</small>
+                    <small class="text-muted">£5.00</small>
                   </div>
                 </div>
               </div>
@@ -26,12 +27,12 @@ title: iPad Pens!
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">A charging charm to accessorise your iPad pen. Keep the charging port free from dust and make your iPad pen your own.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
                     </div>
-                    <small class="text-muted">ipadazzle</small>
+                    <small class="text-muted">£1.50</small>
                   </div>
                 </div>
               </div>
@@ -40,95 +41,12 @@ title: iPad Pens!
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">A replacement pen tip. Replace your lost pen tip, or just add a splash of colour to your iPad pen with this stylish addition!</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
                     </div>
-                    <small class="text-muted">ipadazzle</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                     
-                    </div>
-                    <small class="text-muted">9 ipadazzle</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                    </div>
-                    <small class="text-muted">ipadazzle</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      
-                    </div>
-                    <small class="text-muted">ipadazzle</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      
-                    </div>
-                    <small class="text-muted">ipadazzle</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      
-                    </div>
-                    <small class="text-muted">ipadazzle</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      
-                    </div>
-                    <small class="text-muted">ipadazzle</small>
+                    <small class="text-muted">£2.00</small>  
                   </div>
                 </div>
               </div>
