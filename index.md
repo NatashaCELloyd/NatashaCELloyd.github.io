@@ -10,7 +10,7 @@ title: iPadazzle!
 * See our full range of products.
 * Find our contact details to order products and request changes.
 * See when and where we're selling.
-* Compare prices, sizes and colours for products.
+* Browse our products, see what you want to buy.
 
 ![bundles]({{ "/assets/pics/Girl.png" | relative_url }})
 
