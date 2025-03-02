@@ -3,7 +3,7 @@ layout: page
 title: iPad
 ---
 
-## Here are all our ipad kits..
+## Here are all our ipad accessories...
 <div class="album py-5 bg-light">
         <div class="container">
           <div class="row">
