@@ -75,8 +75,9 @@ title: iPad Pens!
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
-                    
                     </div>
+                    <small class="text-muted">£2.00</small>  
+                  </div>
                 </div>
               </div>
             </div>
@@ -84,7 +85,7 @@ title: iPad Pens!
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Pennib.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">A fun pen nib. Add a soft nib cover, or just add a splash of colour to your iPad pen with this stylish addition!</p>
+                  <p class="card-text">A pen nib. Buy a soft cover for your pen tip, or just add a splash of colour to your iPad pen with this stylish addition!</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
