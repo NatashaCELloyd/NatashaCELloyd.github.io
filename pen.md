@@ -10,7 +10,7 @@ title: iPad Pens!
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Pencover.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Jazz up your pen with one of our pen covers! </p>
                   <p class="card-text">A silicone cover for your iPad pen to protect it from damage, give you a better grip and add some colour!</p>
@@ -25,7 +25,7 @@ title: iPad Pens!
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Chargingcharms.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">A charging charm to accessorise your iPad pen. Keep the charging port free from dust and make your iPad pen your own.</p>
                   <div class="d-flex justify-content-between align-items-center">
@@ -39,7 +39,7 @@ title: iPad Pens!
             </div>
             <div class="col-md-4">
             <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Largepens.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text"> Large pen pack </p>
                   <p class="card-text">Full of eveything you could ever want, this pack contains the favourites of our products. It includes 1 silicone pen cover, 2 pen tips, 1 pen nib, two charging charms and one pack of name labels.</p>
@@ -54,7 +54,7 @@ title: iPad Pens!
             </div>
             <div class="col-md-4">
             <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Smallpen.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text"> Small pen pack </p>
                   <p class="card-text">For those who want all the small cute accessories that our business sells, this is the pack for you! it includes one silicone pen cover, 1 pen tip, 1 pen nib and one charging charm.</p>
@@ -69,9 +69,22 @@ title: iPad Pens!
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Pentip.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">A replacement pen tip. Replace your lost pen tip, or just add a splash of colour to your iPad pen with this stylish addition!</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      
+                    
+                    </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Pennib.png" | relative_url }}' />
+                <div class="card-body">
+                  <p class="card-text">A fun pen nib. Add a soft nib cover, or just add a splash of colour to your iPad pen with this stylish addition!</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
