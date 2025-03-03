@@ -9,7 +9,7 @@ title: iPad
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Chargingcharm.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Chargingcharms.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Charging charms! </p>
                   <p class="card-text">Our beautiful charging charms come in a wide range of colours and designs. Also available in packs of 5; you can mix and match, or accesssorise your iPad and pen in a cohesive style that perfectly reflects your personality.</p>
