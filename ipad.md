@@ -9,7 +9,7 @@ title: iPad
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Chargingcharm.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Charging charms! </p>
                   <p class="card-text">Our beautiful charging charms come in a wide range of colours and designs. Also available in packs of 5; you can mix and match, or accesssorise your iPad and pen in a cohesive style that perfectly reflects your personality.</p>
@@ -24,7 +24,7 @@ title: iPad
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Headphones and adaptors! </p>
                   <p class="card-text">Our practical headphones (with adaptors to allow compatability with every ipad) are an essential accessory for every school device.Available in a wide range of colours, they are convenient for all your audio-based needs, in lessons and at home.</p>
@@ -40,7 +40,7 @@ title: iPad
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Theme.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Themed packs! </p>
                   <p class="card-text">A themed pack is the perfect way to give your iPad a simple, but sophisticated, personalised transformation. Simply take your pick, and you'll have your hands on our most popular products! it includes  stickers, silicone pen cover, pen tip, cable tidy, charging charms and cable charm: all in cohesive, stylish shades of your favourite colour!</p>
@@ -55,7 +55,7 @@ title: iPad
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Small iPad kit! </p>
                   <p class="card-text">If you’re looking for a smaller but effective iPad transformation (that adds both practicality and visual appeal), then we have the bundle for you! Our small iPad kits come with 1 Bluetooth mouse, 2 charging charms and a pack of original stickers personally designed by us, all in a range colours and designs to perfectly match your style. </p>
