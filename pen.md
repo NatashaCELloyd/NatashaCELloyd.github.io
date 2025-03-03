@@ -84,9 +84,9 @@ title: iPad Pens!
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Chargingcharms.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Pennib.png" | relative_url }}' />
                 <div class="card-body">
-                  <p class="card-text">A charging charm to accessorise your iPad pen. Keep the charging port free from dust and make your iPad pen your own.</p>
+                  <p class="card-text">A nice pen nib. Buy a nice cover for your pen tip to stop it getting damaged, or just add a splash of colour to your iPad pen with this stylish addition!</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
