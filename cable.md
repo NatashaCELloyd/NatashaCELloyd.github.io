@@ -55,7 +55,7 @@ title: Cable
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Largecable.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/pics/Laregcable.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Large cable pack </p>
                   <p class="card-text">This pack (my favourite!), is full to the brim of all our favourite charms, and includes not only three cable charms and three cable tidies, but also FOUR charging charms, perfect for all your devices at home!</p>
