@@ -67,7 +67,7 @@ title: iPadazzle
             
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" style="width:500px;height:500px;object-fit:cover" src='{{ "/assets/pics/Cablecharms2.png" | relative_url }}' />
+            <img class="featurette-image img-fluid mx-auto" style="width:500px;height:500px;object-fit:cover" src='{{ "/assets/pics/IMG_0326.png" | relative_url }}' />
           </div>
         </div>
 
