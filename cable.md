@@ -28,7 +28,7 @@ title: Cable Accessories
                 <img class="card-img-top" style="height:225px;width:100%;display:block;object-fit:cover" src='{{ "/assets/Pics/Tidies.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Cable tidies</p>
-                  <p class="card-text">These cable tidies will keep your cables neat, coming in a huge range of colours to match your aesthetic, these are shure to be something you want at your desk!.</p>
+                  <p class="card-text">These cable tidies will keep your cables neat, coming in a huge range of colours to match your aesthetic, these are sure to be something you want at your desk!</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       
