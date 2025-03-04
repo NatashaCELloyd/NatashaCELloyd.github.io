@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cable
+title: Cable Accessories
 ---
 
 ## Are you always confusing your cables because they look the same? Are they too boring?
