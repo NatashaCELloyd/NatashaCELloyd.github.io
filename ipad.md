@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iPad
+title: iPad Accessories
 ---
 
 ## Here are all our ipad accessories...
