@@ -40,12 +40,12 @@ title: iPadazzle
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
             <h2 class="featurette-heading">Personalisations <span class="text-muted">Make it more YOU...</span></h2>
-            <p class="lead">If you would like a themed bundle or pack of stickers that we dont already have:</p>
+            <p class="lead">If you would like a themed bundle or pack of stickers that we don't already have:</p>
             <p class="lead"> Contact us! We are happy to listen to your ideas, and would love to see how we can help.
 </p>
             <p class="lead"> <span class="text-muted">A small fee will apply.</span>
 </p>
-            <p class="lead"> Make sure to let us know any restrictions of personal requests.
+            <p class="lead"> Make sure to let us know any restrictions or personal requests.
 </p>
           </div>
           <div class="col-md-5 order-md-1">
