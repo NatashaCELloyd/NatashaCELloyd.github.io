@@ -7,7 +7,7 @@ title: Bundles
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/IMG_0911.png" | relative_url }}' />
+                <img class="card-img-top" style="height:225px;width:100%;display:block;" src='{{ "/assets/pics/Theme.png" | relative_url }}' />
                 <div class="card-body">
                   <p class="card-text">Themed packs! </p>
                   <p class="card-text">A themed pack is the perfect way to give your iPad a simple, but sophisticated, personalised transformation. Simply take your pick, and you'll have your hands on our most popular products! it includes  stickers, silicone pen cover, pen tip, cable tidy, charging charms and cable charm: all in cohesive, stylish shades of your favourite colour!</p>
