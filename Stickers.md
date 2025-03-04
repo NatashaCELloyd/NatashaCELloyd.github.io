@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Stickers  small-£3 medium-£4 large-£5
+title: Stickers  
 ---
-## small-£3 medium-£4 large-£5##
+## small-£3 medium-£4 large-£5 ##
 <div class="album py-5 bg-light">
         <div class="container">
 
