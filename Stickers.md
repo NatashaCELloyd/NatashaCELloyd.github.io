@@ -2,7 +2,8 @@
 layout: page
 title: Stickers  
 ---
-## small-£3 medium-£4 large-£5 ##
+## small-£2 medium-£3 large-£4 ##
+<h3>We also have a pick and mix box for 50p per sticker</h3>
 <div class="album py-5 bg-light">
         <div class="container">
 
@@ -150,5 +151,6 @@ title: Stickers
           </div>
         </div>
       </div>
+ **Designs coming soon: cute frogs, more flowers, hearts, plants, and more.**
  **These are not all of our designs! Come see us in OSH every Thursday and Friday lunch to see our full range of stickers, as well as asking us any questions about customising packs, or adapting your ideas!**
  <h2 class="featurette-heading">100% of profits go to charity - so dont be afraid to spend!</h2>
